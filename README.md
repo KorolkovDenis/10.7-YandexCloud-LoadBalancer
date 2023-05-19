@@ -37,25 +37,23 @@
 
 Скриншот статуса балансировщика и целевой группы: 
 
-![screen1](https://github.com/)
+![screen1](https://github.com/KorolkovDenis/10.7-YandexCloud-LoadBalancer/blob/main/Screenshots/screen1.jpg)
 
-![screen2](https://github.com/)
+![screen2](https://github.com/KorolkovDenis/10.7-YandexCloud-LoadBalancer/blob/main/Screenshots/screen2.jpg)
 
 Скриншот страницы, которая открылась при запросе IP-адреса балансировщика:
 
 При запросе в браузере IP-дреса балансировщика 51.250.72.104 нас перекидывает с одного на другой IP (у меня это vm1-192.168.10.19 и vm0-192.168.10.16)
 
-![screen3](https://github.com/)
+![screen3](https://github.com/KorolkovDenis/10.7-YandexCloud-LoadBalancer/blob/main/Screenshots/screen3.jpg)
 
 Еще раз запросил и мы видим, что IP сменились:
 
-![screen4](https://github.com/)
+![screen4](https://github.com/KorolkovDenis/10.7-YandexCloud-LoadBalancer/blob/main/Screenshots/screen4.jpg)
 
 Главная страница после создания двух VM и балансировщика:
 
-![screen5](https://github.com/)
-
-
+![screen5](https://github.com/KorolkovDenis/10.7-YandexCloud-LoadBalancer/blob/main/Screenshots/screen5.jpg)
 
 ---
 
@@ -88,3 +86,8 @@ Nginx нужно будет поставить тоже автоматизиро
 
 *3. Скриншот страницы, которая открылась при запросе IP-адреса балансировщика.*
 
+
+
+## Моя подробная работа в Google:
+
+[Моя работа по «Отказоустойчивость в облаке»](https://docs.google.com/document/d/13Ep3stebpbpCEpgq5j-O9-lcr44UCPqq/edit?usp=share_link&ouid=104113173630640462528&rtpof=true&sd=true)
